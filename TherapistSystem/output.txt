@@ -1,0 +1,18 @@
+Number of patients are 6
+PatientID	Name 			TherapistID  Diagnostic     Status 
+1172              Alaa Mohammed     3034        hand          inprocess
+3356              Sultan Khalid     2034        Back          inprocess
+2244              Raed Ali          1100        leg           inprocess
+3312              Ali Saber         4987        Arm           inprocess
+1174              fahad Ahmed       1023        back          Done
+4401              Mohammed Anas     1100        leg           inprocess
+.......................................................................
+Number of Therapists are 6
+TerapistID	Name 			Specialist   Max Patients     Status 
+1100        Ali Abdullah      leg               2                   NotAvailable
+1023        Nadia Omar        Back              3                   Available
+2034        Noha Ali          Back              1                   Avalabile
+3034        Sad Thamer        hand              2                   Available
+1237        Ahmed Ali         leg               3                   Available
+4987        Walied Omar       Arm               1                   NotAvailable
+.........................................................................
